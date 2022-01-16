@@ -6,7 +6,17 @@ Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia
 - 🎯 Atualmente focado em melhorar os conhecimentos na linguagem C# (.NET).
 - 💡 Criativo e gosto de buscar maneiras de melhorar e otimizar tarefas.
 - 📈 Procuro a cada dia melhorar meus conhecimentos em desenvolvimento de software.
-- 👯 Se você é um desenvolvedor/desenvolvedora, sinta-se a vontade para sugerir melhorias. Sugestões sempre são bem vindas.
+- 🗣 Se você é um desenvolvedor/desenvolvedora, sinta-se a vontade para sugerir melhorias. Sugestões sempre são bem vindas.
+
+### 📝 Ultimos Projetos
+
+- [Calculadora simples C#.](https://github.com/mariofelippe/Calculadora)
+- [Teste da linguagem Rust](https://github.com/mariofelippe/teste_rust)
+- [Web Scraping e Web Crawler Simples com Python.](https://github.com/mariofelippe/webcrawler)
+
+### 📚 O que estou estudando?
+- Estudando a linguagem C#, conceitos e paradigmas de desenvolvimento utilando um projeto para resolver problemas de tratamento de pendências de Bloco X.
+
 
 ## 🛠️ Linguagens, Tecnologias e Ferramentas
 

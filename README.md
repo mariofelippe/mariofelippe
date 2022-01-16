@@ -29,10 +29,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ##
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariofelippe&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofelippe&layout=compact&custom_title=Linguagens%20mais%20utilizadas">
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariofelippe&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariofelippe&layout=compact&custom_title=Linguagens%20mais%20utilizadas)
 
   
 

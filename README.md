@@ -15,7 +15,7 @@ Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia
 - [Web Scraping e Web Crawler Simples com Python.](https://github.com/mariofelippe/webcrawler)
 
 ### 📚 O que estou estudando?
-- Estudando a linguagem C#, conceitos e paradigmas de desenvolvimento utilando um projeto para resolver problemas de tratamento de pendências de Bloco X.
+- Estudando a linguagem C#, conceitos e paradigmas de desenvolvimento utilizando um projeto para resolver problemas de tratamento de pendências de Bloco X.
 
 
 ## 🛠️ Linguagens, Tecnologias e Ferramentas

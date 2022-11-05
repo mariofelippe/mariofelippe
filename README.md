@@ -1,4 +1,4 @@
-## Olá! Eu sou [Mario Felippe](www.linkedin.com/in/mario-felippe-chaves)
+## Olá! Eu sou [Mario Felippe](https://www.linkedin.com/in/mario-felippe-chaves)
 
 Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia, música e fotografia. Trabalhando com suporte e infraestrutura desde 2013, decidi em 2020 mergulhar no incrível mundo da programação e do desenvolvimento software.
 

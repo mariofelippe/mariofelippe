@@ -1,4 +1,4 @@
-## Olá! Eu sou Mario Felippe
+## Olá! Eu sou [Mario Felippe](www.linkedin.com/in/mario-felippe-chaves)
 
 Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia, música e fotografia. Trabalhando com suporte e infraestrutura desde 2013, decidi em 2020 mergulhar no incrível mundo da programação e do desenvolvimento software.
 
@@ -10,12 +10,18 @@ Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia
 
 ### 📝 Ultimos Projetos
 
+- [Simples API de controle de tarefas](https://github.com/mariofelippe/NoobTodo)
 - [Calculadora simples C#.](https://github.com/mariofelippe/Calculadora)
 - [Teste da linguagem Rust](https://github.com/mariofelippe/teste_rust)
 - [Web Scraping e Web Crawler Simples com Python.](https://github.com/mariofelippe/webcrawler)
 
 ### 📚 O que estou estudando?
-- Estudando a linguagem C#, conceitos e paradigmas de desenvolvimento utilizando um projeto para resolver problemas de tratamento de pendências de Bloco X.
+
+- Desenvolvimento de REST APIs com ASP.NET Core.
+- Teste com C# utilizando Xunit e TDD.
+- Concentos básicos de Clean Code e DDD.
+- Entity Framework com banco de dados MySql e PostgreSQL. 
+
 
 
 ## 🛠️ Linguagens, Tecnologias e Ferramentas

@@ -1,12 +1,14 @@
 ## Olá! Eu sou [Mario Felippe](https://www.linkedin.com/in/mario-felippe-chaves)
 
-Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia, música e fotografia. Trabalhando com suporte e infraestrutura desde 2013, decidi em 2020 mergulhar no incrível mundo da programação e do desenvolvimento software.
+👋 Um entusiasta da tecnologia, música e fotografia, atualmente morando no Rio de Janeiro, Brasil. Com mais de uma década de experiência em suporte e infraestrutura, em 2020 decidi mergulhar de cabeça no fascinante mundo da programação e do desenvolvimento de software.
 
-- 🔭 Trabalhando atualmente como Analista Pleno - Suporte a Sistemas.
-- 🎯 Atualmente focado em melhorar os conhecimentos na linguagem C# (.NET).
-- 💡 Criativo e gosto de buscar maneiras de melhorar e otimizar tarefas.
-- 📈 Procuro a cada dia melhorar meus conhecimentos em desenvolvimento de software.
-- 🗣 Se você é um desenvolvedor/desenvolvedora, sinta-se a vontade para sugerir melhorias. Sugestões sempre são bem vindas.
+🚀 Atualmente, trabalho como Analista de Implantação Pleno, mas estou em transição para me tornar um Analista Desenvolvedor. Meu foco principal está na melhoria contínua dos meus conhecimentos em Java, especialmente em projetos utilizando Spring.
+
+💡 Sou um profissional criativo e estou sempre buscando maneiras de otimizar tarefas e melhorar processos. Acredito firmemente na importância do aprendizado contínuo, e estou constantemente buscando aprimorar minhas habilidades em desenvolvimento de software.
+
+🎯 No momento, estou empenhado em aprofundar meu conhecimento em Java e em desenvolver projetos pessoais usando Spring Boot. Também tenho experiência em C# .NET, que foi a primeira linguagem que estudei. No entanto, devido à demanda na minha empresa e ao meu objetivo de migrar para o desenvolvimento, estou concentrando meus esforços em Java.
+
+📈 Estou sempre aberto a sugestões e feedback. Se você é um desenvolvedor ou desenvolvedora, sinta-se à vontade para sugerir melhorias. A colaboração é essencial para o meu crescimento profissional!
 
 ### 📝 Ultimos Projetos
 
@@ -17,10 +19,10 @@ Nascido em São Roque/SP, moro no Rio de Janeiro e sou apaixonado por tecnologia
 
 ### 📚 O que estou estudando?
 
-- Desenvolvimento de REST APIs com ASP.NET Core.
-- Teste com C# utilizando Xunit e TDD.
-- Concentos básicos de Clean Code e DDD.
-- Entity Framework com banco de dados MySql e PostgreSQL. 
+- Desenvolvimento de REST APIs com Java e Spring Boot
+- Teste com Java.
+- Concentos de Clean Code e DDD.
+- JPA e Banco de dados em memória. 
 
 
 
